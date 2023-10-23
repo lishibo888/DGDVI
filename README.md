@@ -1,11 +1,11 @@
 # Depth-guided Deep Video Inpainting
 
-By Shibo Li, [Shuyuan Zhu](https://faculty.uestc.edu.cn/zhushuyuan/en/index.htm), [Yao Ge](https://www.gla.ac.uk/pgrs/yaoge/#publications,articles,conferenceproceedings,supervisors), [Bing Zeng](https://ieeexplore.ieee.org/author/37270871000), [Muhammad Ali Imran](https://www.gla.ac.uk/schools/engineering/staff/muhammadimran/), [Qammer H. Abbasi](https://www.gla.ac.uk/schools/engineering/staff/qammerabbasi/), [Jonathan Cooper](https://www.gla.ac.uk/schools/engineering/staff/jonathancooper/#biography).
+By Shibo Li, [Shuyuan Zhu](https://ieeexplore-dev.ieee.org/author/37407520000), Yao Ge, [Bing Zeng](https://ieeexplore.ieee.org/author/37270871000), [Muhammad Ali Imran](https://www.gla.ac.uk/schools/engineering/staff/muhammadimran/), [Qammer H. Abbasi](https://www.gla.ac.uk/schools/engineering/staff/qammerabbasi/), [Jonathan Cooper](https://www.gla.ac.uk/schools/engineering/staff/jonathancooper/#biography).
 
 This repo is the official Pytorch implementation of Depth-guided Deep Video Inpainting.
 
 ## Introduction
-<img src='figs/overview.png' width="900px">
+<img src='figs/overview.jpg' width="900px">
 
 ## Usage
 

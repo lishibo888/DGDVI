@@ -5,7 +5,7 @@ By Shibo Li, [Shuyuan Zhu](https://faculty.uestc.edu.cn/zhushuyuan/en/index.htm)
 This repo is the official Pytorch implementation of Depth-guided Deep Video Inpainting.
 
 ## Introduction
-<img src='imgs/overview.pdf' width="900px">
+<img src='figs/overview.png' width="900px">
 
 ## Usage
 

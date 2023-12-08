@@ -2,7 +2,7 @@
 
 By Shibo Li, [Shuyuan Zhu](https://ieeexplore-dev.ieee.org/author/37407520000), Yao Ge, [Bing Zeng](https://ieeexplore.ieee.org/author/37270871000), [Muhammad Ali Imran](https://www.gla.ac.uk/schools/engineering/staff/muhammadimran/), [Qammer H. Abbasi](https://www.gla.ac.uk/schools/engineering/staff/qammerabbasi/), [Jonathan Cooper](https://www.gla.ac.uk/schools/engineering/staff/jonathancooper/#biography).
 
-This repo is the official Pytorch implementation of Depth-guided Deep Video Inpainting.
+This repo is the official Pytorch implementation of [Depth-guided Deep Video Inpainting](https://ieeexplore.ieee.org/document/10345745), which is published by IEEE Transactions on Multimedia (TMM).
 
 ## Introduction
 <img src='figs/overview.jpg' width="900px">
@@ -72,6 +72,20 @@ python evaluate.py --model fuseformer --ckpt checkpoints/fuseformer.pth --datase
 
 For evaluating warping error, please refer to https://github.com/phoenix104104/fast_blind_video_consistency
 
+## Citing DGDVI
+If you find DGDVI useful in your research, please consider citing this early access version:
+@ARTICLE{10345745,
+  author={Li, Shibo and Zhu, Shuyuan and Ge, Yao and Zeng, Bing and Imran, Muhammad Ali and Abbasi, Qammer H. and Cooper, Jonathan},
+  journal={IEEE Transactions on Multimedia}, 
+  title={Depth-guided Deep Video Inpainting}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-12},
+  doi={10.1109/TMM.2023.3340089}}
+
 ## Acknowledement
 This project is based on [STTN](https://github.com/researchmm/STTN) and [FuseFormer](https://github.com/ruiliu-ai/FuseFormer). 
+
+
 

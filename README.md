@@ -74,6 +74,7 @@ For evaluating warping error, please refer to https://github.com/phoenix104104/f
 
 ## Citing DGDVI
 If you find DGDVI useful in your research, please consider citing this early access version:
+```
 @ARTICLE{10345745,
   author={Li, Shibo and Zhu, Shuyuan and Ge, Yao and Zeng, Bing and Imran, Muhammad Ali and Abbasi, Qammer H. and Cooper, Jonathan},
   journal={IEEE Transactions on Multimedia}, 
@@ -83,6 +84,7 @@ If you find DGDVI useful in your research, please consider citing this early acc
   number={},
   pages={1-12},
   doi={10.1109/TMM.2023.3340089}}
+```
 
 ## Acknowledement
 This project is based on [STTN](https://github.com/researchmm/STTN) and [FuseFormer](https://github.com/ruiliu-ai/FuseFormer). 
